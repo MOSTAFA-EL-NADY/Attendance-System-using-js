@@ -1,0 +1,38 @@
+{
+  "security": [
+    {
+      "id": 1,
+      "name": "abdo",
+      "position": "clerk",
+      "email":"mostafa@gmail.com",
+      "password":"123456789",
+      "age":25
+    },
+    {
+      "id": 2,
+      "name": "ali",
+      "position": "clerk",
+      "email":"ali@gmail.com",
+      "password":"123456789",
+      "age":25
+    },
+    {
+      "id": 3,
+      "name": "omar",
+      "position": "clerk",
+      "email":"omar@gmail.com",
+      "password":"123456789",
+      "age":25
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

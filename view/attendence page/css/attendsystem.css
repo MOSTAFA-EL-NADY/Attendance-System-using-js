@@ -1,0 +1,98 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #211816;
+  color: black;
+  font-size: large;
+  font-family: sans-serif;
+  background-size: cover;
+}
+
+#myform {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  align-items: center;
+  color: #141e30;
+}
+
+#myform > * {
+  margin-top: 10px;
+}
+#myform > input:nth-child(3),
+#myform > input:nth-child(5) {
+  box-sizing: border-box;
+  font-family: inherit;
+  overflow: visible;
+  width: 50%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.5;
+  height: 50px;
+  color: rgb(248, 248, 248) !important;
+
+  border-radius: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  transition: 0.3s;
+  border: 2px solid #fbceb5;
+  width: 70%;
+  background: #f3904f; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #3b4371,
+    #f3904f
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #3b4371,
+    #f3904f
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#myform > input:nth-child(5):active{
+    border: 2px solid white;
+}
+
+#myform > div > button:nth-child(1),
+#myform > div > button:nth-child(3) {
+  width: 50%;
+  border: 1px solid #fbceb5 !important;
+  color: #000 !important;
+  border-radius: 30px;
+  font-size: 19px;
+ font-family: serif;
+  font-weight: 200;
+}
+#myform > div {
+  width: 70%;
+}
+
+#sidenavAccordion > div.sb-sidenav-menu,
+body > nav {
+  background: #141e30; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to top,
+    #243b55,
+    #141e30
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to top,
+    #243b55,
+    #141e30
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#myform > div:nth-child(5),
+#abcense {
+  background: #e52d27;
+  border-radius: 30px;
+}
+
+#myform > h4
+{
+    font-family: monospace;
+}

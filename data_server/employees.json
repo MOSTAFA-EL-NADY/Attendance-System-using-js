@@ -1,0 +1,308 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "mostafa",
+      "position": "clerk",
+      "email": "mostafa@gmail.com",
+      "password": "123456789",
+      "age": 25,
+      "attend": [
+        {
+          "date": "1/1/2022",
+          "in": "6.45",
+          "out": "3",
+          "late": "0:0"
+        },
+        {
+          "date": "21/1/2023",
+          "in": "3:6"
+        },
+        {
+          "date": "21/1/2023",
+          "in": "3:7"
+        },
+        {
+          "date": "21/1/2023",
+          "in": "3:9"
+        },
+        {
+          "date": "21/01/2023",
+          "in": "4:3",
+          "out": "12:29"
+        },
+        {
+          "date": "22/01/2023",
+          "in": "12:29",
+          "late": "3:29",
+          "out": "16:25"
+        }
+        
+      ]
+    },
+    {
+      "id": 3,
+      "name": "omar",
+      "position": "clerk",
+      "email": "omar@gmail.com",
+      "password": "123456789",
+      "age": 25,
+      "attend": [
+        {
+          "date": "1/1/2022",
+          "in": "8",
+          "out": "3"
+        },
+        {
+          "date": "21/1/2023",
+          "in": "3:28",
+          "out": "10"
+        },
+        {
+          "date": "22/01/2023",
+          "in": "9:10",
+          "late": "0:10",
+          "out": "16:28",
+          "abcense":false
+        }
+      ]
+    },
+    {
+      "name": "ibraheeem",
+      "password": "Mostafapass123@$",
+      "position": "temp",
+      "email": "ibraheem@gmail.com",
+      "age": 25,
+      "attend": [
+        {
+          "date": "1/1/2022",
+          "in": "9.11",
+          "out": "10"
+        },
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "3"
+        },
+        {
+          "date": "22/01/2023",
+          "abcense": true
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Mark",
+      "password": "Abcd@$123",
+      "position": "temp",
+      "email": "mark@gmail.com",
+      "age": 25,
+      "attend": [
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "3"
+        },
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "3"
+        },
+        {
+          "date": "21/01/2023",
+          "in": "4:10",
+          "out": "4:10"
+        },
+        {
+          "date": "22/01/2023",
+          "abcense": true
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "saad",
+      "password": "Sa3d@#123",
+      "position": "temp",
+      "email": "saad@gmail.com",
+      "age": 25,
+      "attend": [
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "3"
+        },
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "3"
+        },
+        {
+          "date": "22/01/2023",
+          "abcense": true
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "mohamed_alla",
+      "password": "ABxcd0125@#$",
+      "position": "temp",
+      "email": "allla@gmail.com",
+      "age": 25,
+      "attend": [
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "3"
+        },
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "3"
+        },
+        {
+          "date": "22/01/2023",
+          "abcense": true
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "mahmoud",
+      "password": "Mahmoud123@$",
+      "position": "temp",
+      "email": "mahmoud@gmail.com",
+      "age": 25,
+      "attend": [
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "3"
+        },
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "3"
+        },
+        {
+          "date": "22/01/2023",
+          "in": "9:39",
+          "late": "6:39"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "naser",
+      "password": "Mostfafa@1315",
+      "position": "temp",
+      "email": "naser@gmail.com",
+      "age": 25,
+      "attend": [
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "3"
+        },
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "3"
+        },
+        {
+          "date": "22/01/2023",
+          "in": "15:29",
+          "late": "6:29",
+          "out": "15:29"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "awad",
+      "password": "Abcd123@$",
+      "position": "temp",
+      "email": "awad@gmail.com",
+      "age": 25,
+      "attend": [
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "3"
+        },
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "3"
+        },
+        {
+          "date": "21/01/2023",
+          "in": "4:11",
+          "out": "4:11"
+        },
+        {
+          "date": "22/01/2023",
+          "in": "15:30",
+          "late": "6:30",
+          "out": "15:32"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "test",
+      "password": "ACvbgf123456@$%",
+      "position": "temp",
+      "email": "alii@gmail.com",
+      "age": 25,
+      "attend": [
+        {
+          "date": "1/1/2022",
+          "in": "9",
+          "out": "4"
+        },
+        {
+          "date": "1/1/2022",
+          "in": "9.10",
+          "out": "3"
+        },
+        {
+          "date": "22/01/2023",
+          "in": "15:34",
+          "late": "6:34",
+          "out": "15:36"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "name": "moamen",
+      "password": "maoMent21234@$",
+      "position": "temp",
+      "email": "momaen@gmail.com",
+      "attend": [
+        {
+          "date": "1/1/2022",
+          "in": "9.10",
+          "out": "3"
+        },
+        {
+          "date": "22/01/2023",
+          "abcense": true
+        }
+      ],
+      "id": 14
+    }
+  ],
+  "clerk": [
+    {
+      "id": 11,
+      "body": "clecrk man",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
